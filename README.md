@@ -21,7 +21,10 @@ The dataset contains 87,000 200x200 pixel images; 3000 images for each letter of
 ## Results:
 The model achieved an accuracy of 97% after completing 17 epochs.
 
+Confusion Matrix:
 ![alt text](https://github.com/AnannayS/ASL_Alphabet_Detection/blob/main/cf_matrix.png?raw=true)
+
+Test Data Results:
 ![alt text](https://github.com/AnannayS/ASL_Alphabet_Detection/blob/main/test_results.png?raw=true)
 
 ## Next Steps:
