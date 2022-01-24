@@ -28,7 +28,7 @@ Test Data Results:
 ![alt text](https://github.com/AnannayS/ASL_Alphabet_Detection/blob/main/test_results.png?raw=true)
 
 ## Next Steps:
-* Expanding the vocabulary to include common ASL expressions.
-* Experimenting with thresholding and other preprocessing techniques to allow the model to learn faster and be more compact.
-* Combine with a camera module to allow for real-time translation.
-* ”Reversing the translation process, i.e. writing/speech to sign language.
+* Expanding the vocabulary to include common ASL expressions
+* Experimenting with thresholding and other preprocessing techniques to allow the model to learn faster and be more compact
+* Combine with a camera module to allow for real-time translation
+* ”Reversing the translation process, i.e. writing/speech to sign language
