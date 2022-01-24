@@ -21,6 +21,8 @@ The dataset contains 87,000 200x200 pixel images; 3000 images for each letter of
 ## Results:
 The model achieved an accuracy of 97% after completing 17 epochs.
 
+![alt text](https://github.com/AnannayS/ASL_Alphabet_Detection/blob/main/output.png
+
 ## Next Steps:
 * Expanding the vocabulary to include common ASL expressions.
 * Experimenting with thresholding and other preprocessing techniques to allow the model to learn faster and be more compact.
