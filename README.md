@@ -14,7 +14,7 @@ Dataset credits: Akash (https://www.kaggle.com/grassknoted)
 The dataset contains 87,000 200x200 pixel images; 3000 images for each letter of the alphabet, in addition to space, delete, and nothing. 
 
 ## Relevant Packages:
-* Pytorch: Used to create CNN
+* Pytorch: Used to create and train CNN
 * OpenCV: Used for image processing
 * Matplotlib and Seaborn for image visualization
 
